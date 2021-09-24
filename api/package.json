@@ -1,0 +1,14 @@
+{
+  "name": "firestore-explorer-api",
+  "version": "0.0.1",
+  "description": "Firestore Explorer API Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ranajahanzaib",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
