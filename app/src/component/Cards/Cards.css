@@ -1,0 +1,15 @@
+.clr-2 {
+  color: #748096;
+}
+.clr-2727 {
+  color: #272727;
+}
+.card-items {
+  min-height: 40vh;
+  align-items: center;
+  border: none;
+  border-radius: 12px;
+}
+.pt-7 {
+  padding-top: 70px;
+}
