@@ -1,0 +1,17 @@
+.bg-color {
+  background-color: #fff(255, 255, 255);
+}
+
+.bg-color:hover {
+  background-color: #ebebeb;
+}
+.border-trans {
+  border: transparent;
+}
+.display-on-hover > td > i {
+  color: #fff;
+}
+.display-on-hover > td > i:hover {
+  color: black;
+  /* background-color: yellow; */
+}
