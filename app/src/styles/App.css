@@ -1,0 +1,11 @@
+.border-0 {
+  border: none !important;
+}
+
+button {
+  color: #888;
+}
+
+button:hover {
+  color: #000;
+}
